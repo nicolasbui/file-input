@@ -12,6 +12,10 @@
     "test",
     "tests"
   ],
+  "main": [
+    "dist/fileinput.min.js",
+    "dist/fileinput.min.css"
+  ],
   "dependencies": {
     "bootstrap": "~3.3.4"
   }
